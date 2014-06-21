@@ -13,7 +13,7 @@
    Base Styles, Bootstrap Modifications & Fonts Import
    ========================================================================== */
 
-@import url(http://fonts.googleapis.com/css?family=Montserrat:100,400,700);
+@import url(http://fonts.googleapis.com/css?family=Muli:300,400);
 @import url(http://fonts.googleapis.com/css?family=Alegreya+Sans:100,400);
 
 
@@ -52,9 +52,9 @@ a:hover {
 
 p {
 	color: #fff;
-	font-family: "Alegreya Sans";
-	font-weight: 400;
-	font-size: 20px;
+	font-family: "Muli";
+	font-weight: 300;
+	font-size: 18px;
 	line-height: 150%;
 }
 
@@ -76,7 +76,7 @@ p {
 
 
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Muli', sans-serif;
     font-weight: lighter;
     font-size: 16px;
     background-color: #333;
@@ -88,7 +88,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-weight: lighter;
     color: #fff;
-    font-family: "Alegreya Sans";
+    font-family: "Muli";
 }
 
 .left {
@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar {
-	font-family: "Alegreya Sans";
+	font-family: "Muli";
 }
 
 .navbar-brand {
@@ -152,7 +152,7 @@ h1, h2, h3, h4, h5, h6 {
 	padding-top: 10px;
 	padding-bottom: 20px;
 	letter-spacing: 4px;
-	font-size: 80px;
+	font-size: 68px;
 	font-weight: lighter;
 }
 
