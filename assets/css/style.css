@@ -41,6 +41,14 @@ a:hover {
  * A better looking default horizontal rule
  */
 
+ .store-button {
+ 	color: white;
+ 	background-color: purple;
+ 	padding: 15px;
+ 	font-size: 22px;
+ 	border: none;
+ }
+
  hr {
     display: block;
     height: 1px;
